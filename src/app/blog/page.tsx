@@ -88,7 +88,7 @@ export default function BlogPage() {
       <section className="py-32 px-8 max-w-7xl mx-auto pt-32">
         <div className="flex flex-col md:flex-row items-end justify-between mb-12 gap-8">
           <div className="max-w-2xl">
-            <span className="inline-block py-1 px-3 rounded-full bg-secondary-container/20 text-secondary-fixed-dim text-xs font-label font-bold tracking-widest uppercase mb-4">
+            <span className="inline-block py-1 px-3 rounded-full bg-secondary-container/20 text-secondary-fixed-dim text-xs font-label font-bold tracking-widest uppercase mb-4 text bg-purple-400 text-black">
               The Sentinel Prism Intelligence
             </span>
             <h1 className="font-headline text-5xl md:text-7xl font-bold text-primary tracking-tight leading-none mb-6">
