@@ -12,13 +12,13 @@ export default function Footer() {
             The world's most advanced digital agency combining elite cybersecurity with cutting-edge AI engineering.
           </p>
           <div className="flex gap-4">
-            <span className="material-symbols-outlined text-on-surface-variant/60 hover:text-primary cursor-pointer transition-colors">
+            <span className="material-symbols-outlined text-on-surface-variant/60 hover:text-cyan-400 cursor-pointer transition-colors">
               public
             </span>
-            <span className="material-symbols-outlined text-on-surface-variant/60 hover:text-primary cursor-pointer transition-colors">
+            <span className="material-symbols-outlined text-on-surface-variant/60 hover:text-cyan-400 cursor-pointer transition-colors">
               hub
             </span>
-            <span className="material-symbols-outlined text-on-surface-variant/60 hover:text-primary cursor-pointer transition-colors">
+            <span className="material-symbols-outlined text-on-surface-variant/60 hover:text-cyan-400 cursor-pointer transition-colors">
               terminal
             </span>
           </div>
@@ -28,22 +28,22 @@ export default function Footer() {
           <h4 className="text-on-surface font-bold mb-6 font-headline">Solutions</h4>
           <ul className="space-y-4">
             <li>
-              <Link href="#" className="text-sm text-on-surface-variant hover:text-primary transition-colors">
+              <Link href="#" className="text-sm text-on-surface-variant hover:text-purple-400 transition-colors">
                 Web Systems
               </Link>
             </li>
             <li>
-              <Link href="#" className="text-sm text-on-surface-variant hover:text-primary transition-colors">
+              <Link href="#" className="text-sm text-on-surface-variant hover:text-purple-400 transition-colors">
                 AI Core
               </Link>
             </li>
             <li>
-              <Link href="#" className="text-sm text-on-surface-variant hover:text-primary transition-colors">
+              <Link href="#" className="text-sm text-on-surface-variant hover:text-purple-400 transition-colors">
                 Cyber Shield
               </Link>
             </li>
             <li>
-              <Link href="#" className="text-sm text-on-surface-variant hover:text-primary transition-colors">
+              <Link href="#" className="text-sm text-on-surface-variant hover:text-purple-400 transition-colors">
                 Mobile Platforms
               </Link>
             </li>
@@ -54,22 +54,22 @@ export default function Footer() {
           <h4 className="text-on-surface font-bold mb-6 font-headline">Company</h4>
           <ul className="space-y-4">
             <li>
-              <Link href="#" className="text-sm text-on-surface-variant hover:text-primary transition-colors">
+              <Link href="#" className="text-sm text-on-surface-variant hover:text-purple-400 transition-colors">
                 Privacy Policy
               </Link>
             </li>
             <li>
-              <Link href="#" className="text-sm text-on-surface-variant hover:text-primary transition-colors">
+              <Link href="#" className="text-sm text-on-surface-variant hover:text-purple-400 transition-colors">
                 Terms of Service
               </Link>
             </li>
             <li>
-              <Link href="#" className="text-sm text-on-surface-variant hover:text-primary transition-colors">
+              <Link href="#" className="text-sm text-on-surface-variant hover:text-purple-400 transition-colors">
                 Security Research
               </Link>
             </li>
             <li>
-              <Link href="#" className="text-sm text-on-surface-variant hover:text-primary transition-colors">
+              <Link href="#" className="text-sm text-on-surface-variant hover:text-purple-400 transition-colors">
                 Contact
               </Link>
             </li>
@@ -93,7 +93,7 @@ export default function Footer() {
       </div>
 
       <div className="max-w-7xl mx-auto px-8 pt-8 border-t border-outline-variant/10 text-center">
-        <p className="text-sm text-on-surface-variant/60">© 2024 Metacyber. The Sentinel Prism Intelligence.</p>
+        <p className="text-sm text-on-surface-variant/60">© 2026 Metacyber. The Sentinel Prism Intelligence.</p>
       </div>
     </footer>
   );

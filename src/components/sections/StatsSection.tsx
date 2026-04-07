@@ -5,22 +5,22 @@ export default function StatsSection() {
     {
       value: '500+',
       label: 'Projects Completed',
-      color: 'text-primary-container',
+      color: 'text-cyan-400',
     },
     {
       value: '99.9%',
       label: 'System Uptime',
-      color: 'text-primary-container',
+      color: 'text-cyan-400',
     },
     {
       value: '250+',
       label: 'Happy Clients',
-      color: 'text-primary-container',
+      color: 'text-cyan-400',
     },
     {
       value: '100',
       label: 'Security Score',
-      color: 'text-secondary',
+      color: 'text-purple-400',
     },
   ];
 

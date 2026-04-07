@@ -17,8 +17,10 @@ export default function CTASection() {
         </p>
 
         <div className="flex flex-col sm:flex-row justify-center gap-6">
-          <Button size="lg">Contact Us</Button>
-          <button className="px-10 py-5 rounded-2xl font-headline font-bold text-xl hover:bg-surface-bright transition-all duration-300 bg-surface-container-highest">
+          <button className=" bg-cyan-400 text-black glass-card neon-glow px-8 py-4 rounded-xl font-headline font-bold text-lg">
+              Contact Us
+          </button>
+          <button className="glass-card neon-glow px-8 py-4 rounded-xl font-headline font-bold text-lg">
             View Portfolio
           </button>
         </div>
