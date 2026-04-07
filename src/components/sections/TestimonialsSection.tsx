@@ -42,7 +42,7 @@ export default function TestimonialsSection() {
       <div className="max-w-7xl mx-auto px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-5xl font-headline font-bold mb-4">
-            Trusted by <span className="text-primary-container">Industry Leaders</span>
+            Trusted by <span className=" text-cyan-400 text-primary-container">Industry Leaders</span>
           </h2>
         </div>
 
